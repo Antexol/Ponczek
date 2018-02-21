@@ -12,7 +12,7 @@ body {
   height: 100px;
   width: 100px;
   z-index: -1;
-  border: 90px solid #c39e38;
+  border: 90px solid black;
   border-radius: 50%;
   position: relative;
   transition: 3s transform linear;
