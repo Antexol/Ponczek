@@ -89,7 +89,7 @@ body {
   border: 90px solid #c39e38;
   border-radius: 50%;
   position: relative;
-  transition: 3s transform linear;
+  transition: 1s transform linear;
   transition-property: transform, box-shadow;
 }
 
@@ -154,6 +154,6 @@ body {
 
 }
 .donut1:hover {
-  transform: scale(2,2);
+  transform: scale(10);
   box-shadow: -20px -3px 20px 2px rgba(0, 0, 0, 0);
 }
