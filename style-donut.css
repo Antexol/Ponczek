@@ -11,7 +11,7 @@ body {
 .donut {
   height: 100px;
   width: 100px;
-  z-index: 1;
+  z-index: -1;
   border: 90px solid #c39e38;
   border-radius: 50%;
   position: relative;
@@ -87,7 +87,7 @@ body {
 .donut1 {
   height: 100px;
   width: 100px;
-  z-index: 2;
+  z-index: 1;
   border: 90px solid #c39e38;
   border-radius: 50%;
   position: relative;
